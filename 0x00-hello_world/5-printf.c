@@ -3,13 +3,11 @@
 
 
 /**
+ *    main - Entry point
  *
- *  * main - Entry point
+ *    Description: use printf
  *
- *   * Description: use printf
- *
- *    * Return: Always 0 (Success)
- *
+ *    Return: Always 0 (Success)
  *     */
 
 int main(void)
